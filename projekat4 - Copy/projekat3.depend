@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1604943468 source:c:\users\milica\documents\programi\programiranje ii godina\projekat3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605029364 source:c:\users\milica\desktop\projekat4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1604952326 c:\users\milica\desktop\projekat4\drive.h
+
+1605032916 source:c:\users\milica\desktop\projekat4\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1605029364 source:c:\users\milica\desktop\projekat4 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1604952326 c:\users\milica\desktop\projekat4 - copy\drive.h
+
+1605121305 source:c:\users\milica\desktop\projekat4 - copy\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
