@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1604943468 source:c:\users\milica\documents\programi\programiranje ii godina\projekat3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1605029364 source:c:\users\milica\desktop\projekat4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1604952326 c:\users\milica\desktop\projekat4\drive.h
+
+1605032916 source:c:\users\milica\desktop\projekat4\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1605029364 source:c:\users\milica\desktop\projekat4 - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1604952326 c:\users\milica\desktop\projekat4 - copy\drive.h
+
+1605121305 source:c:\users\milica\desktop\projekat4 - copy\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1605719386 source:c:\users\milica\desktop\projekat 5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1607248906 c:\users\milica\desktop\projekat 5\drive.h
+
+1607082896 source:c:\users\milica\desktop\projekat 5\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Drive.h"
+
+1605719386 source:c:\users\milica\desktop\projekat 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1607434233 c:\users\milica\desktop\projekat 6\drive.h
+
+1607462264 source:c:\users\milica\desktop\projekat 6\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Drive.h"
+
+1605719386 source:c:\users\milica\desktop\projekat 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1607464959 c:\users\milica\desktop\projekat 7\drive.h
+
+1607463978 source:c:\users\milica\desktop\projekat 7\drive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Drive.h"
+
+1607549659 source:c:\users\milica\desktop\projekat 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Drive.h"
+
+1607613209 c:\users\milica\desktop\projekat 8\drive.h
+
+1607612422 source:c:\users\milica\desktop\projekat 8\drive.c
+	<stdio.h>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+	"Drive.h"
+
